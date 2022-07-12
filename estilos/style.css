@@ -67,3 +67,13 @@ section#redes_sociais img:hover{
     box-shadow: 5px 5px 10px rgb(0, 0 ,0, 0.600);
     transition: transform .3s, border 1s;
 }
+
+/* Configurações tela facebook */
+iframe#facebook{
+    position: relative;
+    top: 80px;
+    left: 22px;
+    height: 471px;
+    width: 269px;
+    transform: translate(-1px, -480px);
+}
